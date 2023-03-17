@@ -1,9 +1,3 @@
-/*
-Author: Michelle Wen
-Course: CSCI-135
-Instructor: Mike Zamansky
-Assignment: Prject 3 Task 1
-*/
 #pragma once
 #include <iostream>
 #include <string>

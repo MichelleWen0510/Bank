@@ -1,11 +1,3 @@
-/*
-Author: Michelle Wen
-Course: CSCI-135
-Instructor: Mike Zamansky
-Assignment: Project 3 Task 1
-
-*/
-
 #include <iostream>
 #include <string>
 #include "Account.hpp"
